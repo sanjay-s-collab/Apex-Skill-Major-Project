@@ -1,0 +1,2 @@
+Crop_Yield_Prediction/data/yield_df.csv filter=lfs diff=lfs merge=lfs -text
+Crop_Yield_Prediction/models/random_forest.pkl filter=lfs diff=lfs merge=lfs -text
